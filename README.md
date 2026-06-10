@@ -21,12 +21,12 @@ Follow the steps below to set up and run the dashboard:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dragonlabsdev/dashboard-v1.0.0
+   git clone https://github.com/ogultra-dev/dashboard
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd dashboard-v1.0.0
+   cd dashboard
    ```
 
 3. Install dependencies using Bun:
@@ -64,8 +64,6 @@ node .
 - **Admin Panel**: Powerful admin tools for managing your services.
 - **Store**: Integrated store for handling purchases and upgrades.
 - **AFK Page**: Dedicated page for AFK users.
-  ---------------------------------------------------
-  - ## editors
-  - **hopingboyz**
+  -------------------------------------------------
 
 This project is licensed under the terms of the repository's license. Check the `LICENSE` file for details.
